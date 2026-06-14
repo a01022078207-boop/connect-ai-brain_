@@ -41,5 +41,17 @@
     "category": "marketing",
     "source": "ezerai",
     "verified": true
+  },
+  {
+    "id": "n1781439115105564",
+    "text": "가원골 설넔장?",
+    "tags": [
+      "가원골",
+      "설넔장"
+    ],
+    "ts": 1781439115105,
+    "category": "general",
+    "source": "agent",
+    "verified": false
   }
 ]
