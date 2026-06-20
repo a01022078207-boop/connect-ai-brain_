@@ -53,5 +53,32 @@
     "category": "general",
     "source": "agent",
     "verified": false
+  },
+  {
+    "id": "n17819713633646907",
+    "text": "인공지능을 탑재한 프로그램입니다.",
+    "tags": [
+      "인공지능을",
+      "탑재한",
+      "프로그램입니다"
+    ],
+    "ts": 1781971363364,
+    "category": "general",
+    "source": "agent",
+    "verified": false
+  },
+  {
+    "id": "n17819713678891654",
+    "text": "지금은 인공지능을 탑재한 프로그램입니다.",
+    "tags": [
+      "지금은",
+      "인공지능을",
+      "탑재한",
+      "프로그램입니다"
+    ],
+    "ts": 1781971367889,
+    "category": "general",
+    "source": "agent",
+    "verified": false
   }
 ]
